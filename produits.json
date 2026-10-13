@@ -1,0 +1,34 @@
+[
+  {
+    "nom": "Laptop",
+    "prix": 250000
+  },
+  {
+    "nom": "Desktop",
+    "prix": 100000
+  },
+  {
+    "nom": "Anti-Virus",
+    "prix": 15000
+  },
+  {
+    "nom": "Chargeur",
+    "prix": 20000
+  },
+  {
+    "nom": "Onduleur",
+    "prix": 35000
+  },
+  {
+    "nom": "accessoires ordi",
+    "prix": 25000
+  },
+  {
+    "nom": "Telephone",
+    "prix": 150000
+  },
+  {
+    "nom": "Tablette",
+    "prix": 50000
+  }
+]
